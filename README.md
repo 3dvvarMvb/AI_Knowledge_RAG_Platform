@@ -1,4 +1,4 @@
-# Project 4: AI Knowledge RAG Platform
+# AI Knowledge RAG Platform
 
 Motor empresarial de recuperación aumentada por generación (RAG) y búsqueda semántica de documentos técnicos utilizando FastAPI y base de datos vectorial Qdrant.
 
